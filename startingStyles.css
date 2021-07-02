@@ -55,16 +55,3 @@ body {
   background-color: #f7f7f7;
   padding: 20px;
 }
-
-/* activate toggle */
-.accordion_item.active .button {
-  background-color: #105057;
-}
-.answer_wrapper {
-  height: 0;
-  overflow: hidden;
-  transition: height ease 0.2s;
-}
-/* .answer_wrapper.open {
-  height: auto;
-} */
